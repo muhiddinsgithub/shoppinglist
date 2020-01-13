@@ -1,0 +1,36 @@
+html {
+    margin: 0px;
+    background-color: lightslategray;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5em;
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
+
+.enterDiv {
+    display: flex;
+    justify-content: center;
+}
+input, button {
+    padding: 5px;
+}
+
+ul {
+   font-size: 30px;
+   display: grid;
+   justify-content: center;
+}
+
+li {
+    list-style-type: square;
+}
+
+p {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
